@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "DevFirm - Your Future Tech Partner",
+  description: "Fast. Efficient. Revolutionary.",
+};
 "use client";
 import React from "react";
 import { useState, useEffect } from "react";
