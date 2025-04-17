@@ -1,7 +1,3 @@
-export const metadata = {
-  title: 'DevFirm - Build the Future',
-  description: 'We craft high-quality websites and apps tailored for the future.',
-};
 
 
 "use client";
