@@ -1,22 +1,8 @@
 export const metadata = {
-  title: "DevFirm - Your Future Tech Partner",
-  description: "Fast. Efficient. Revolutionary.",
-  openGraph: {
-    title: "DevFirm",
-    description: "Future-ready custom web development solutions.",
-    url: "https://project1-grtu.vercel.app",
-    siteName: "DevFirm",
-    images: [
-      {
-        url: "https://yourdomain.com/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "DevFirm OG Image",
-      },
-    ],
-    type: "website",
-  },
+  title: 'DevFirm - Build the Future',
+  description: 'We craft high-quality websites and apps tailored for the future.',
 };
+
 
 "use client";
 import React from "react";
